@@ -14,7 +14,7 @@ class Fuzpad < Formula
   depends_on "fzf"
 
   def install
-    bin.install "bin/fuzpad"
+    bin.install "fuzpad"
   end
 
   test do
