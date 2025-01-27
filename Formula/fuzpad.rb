@@ -1,8 +1,8 @@
 class Fuzpad < Formula
   desc "Minimalistic note management solution. Powered by fzf"
   homepage "https://github.com/JianZcar/FuzPad"
-  url "https://github.com/JianZcar/FuzPad/releases/download/1.03.00/fuzpad-1.03.00.tar.gz"
-  sha256 "05166616c2e7bce985aabdccfbc4512bf6b44f23eb39a0307a84c147cf64568b"
+  url "https://github.com/JianZcar/FuzPad/releases/download/1.03.01/fuzpad-1.03.01.tar.gz"
+  sha256 "66e3f9aa150ddcd797198904895ba0f5f23053ddce39c22031e6e3ec176f0484"
   license "GPL-3.0-or-later"
 
   livecheck do
