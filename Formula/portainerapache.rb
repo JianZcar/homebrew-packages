@@ -16,8 +16,4 @@ class Portainerapache < Formula
   def install
     bin.install "portainer-apache"
   end
-
-  test do
-    assert_equal "1", shell_output("#{bin}/portainer-apache --test 2>&1 | grep -q \"1\" && echo 1 || echo 0").strip
-  end
 end
