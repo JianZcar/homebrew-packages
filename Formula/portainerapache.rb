@@ -14,6 +14,7 @@ class Portainerapache < Formula
   depends_on "fzf"
 
   def install
+    system "ls", "-alR"
     bin.install "portainer-apache"
   end
 end
