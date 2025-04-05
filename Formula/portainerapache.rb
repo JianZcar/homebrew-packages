@@ -1,4 +1,4 @@
-class PortainerApache < Formula
+class Portainerapache < Formula
   desc "Containerized Apache with multi-PHP support using Podman and fzf."
   homepage "https://github.com/JianZcar/PortainerApache"
   url "https://github.com/JianZcar/PortainerApache/releases/download/1.00.01/portainerapache.tar.gz"
